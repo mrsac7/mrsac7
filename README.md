@@ -4,8 +4,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/mrsac7)
 
-[![HitCount](http://hits.dwyl.com/mrsac7.svg)](http://hits.dwyl.com/mrsac7)
-
 <!--
 **mrsac7/mrsac7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
