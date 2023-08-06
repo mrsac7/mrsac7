@@ -2,8 +2,6 @@
 
 ![Profile Views](https://profile-counter.glitch.me/{mrsac7}/count.svg)
 
-![Profile Views](https://gpvc.arturio.dev/mrsac7)
-
 <!--
 **mrsac7/mrsac7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
